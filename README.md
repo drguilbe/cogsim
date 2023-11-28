@@ -1,6 +1,8 @@
 # Exposure to the Views of Opposing Others with Latent Cognitive Differences Results in Social Influence---But Only When Those Differences Remain Obscured
 This github contains all of the replication materials for Guilbeault et al. (2023) "Exposure to the Views of Opposing Others with Latent Cognitive Differences Results in Social Influence---But Only When Those Differences Remain Obscured"in _Management Science_.
-
+<br>
+Link to full paper: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.00895?journalCode=mnsc <br>
+<br>
 This git contains:<br>
 -An r script for replicating all main and supplementary analyses from the raw data. <br>
 -The raw data for all experiments <br>
