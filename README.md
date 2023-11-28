@@ -12,4 +12,8 @@ Data Summary: <br>
 _main experimental data_: exp_dt.csv <br>
 _supplementary experimental data_: supp_dt.csv <br>
 <br>
+<br>
+Code Summary: <br>
+_script for replicating main and supplementary analyses_: 01_cogsim_analysis_script.R<br>
+<br>
 Please direct all correspondences to douglas.guilbeault@haas.berkeley.edu. 
