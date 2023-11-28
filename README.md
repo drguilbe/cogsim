@@ -8,7 +8,8 @@ This git contains:<br>
 **Pre-registration**: https://osf.io/7mqwv/?view_only=907df7b6d82046ccbe077539eba52061 <br>
 **Survey Instrument**: https://bit.ly/social_influence_study <br>
 <br>
-Data Summary: 
-_main experimental data_: exp_dt.csv
-_supplementary experimental data_: supp_dt.csv
-
+Data Summary: <br>
+_main experimental data_: exp_dt.csv <br>
+_supplementary experimental data_: supp_dt.csv <br>
+<br>
+Please direct all correspondences to douglas.guilbeault@haas.berkeley.edu. 
